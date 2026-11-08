@@ -1,0 +1,11 @@
+fastapi==0.162.2
+uvicorn==0.54.0
+numpy==2.4.6
+sentence-transformers==5.7.0
+transformers==5.22.2
+torch==2.15.0
+jsonschema==4.26.0
+tiktoken==0.14.0
+pyarrow==26.0.1
+pytest==9.2.0
+httpx==0.28.1
